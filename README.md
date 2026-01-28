@@ -43,12 +43,18 @@ I'm a B.Tech student at **IIT (ISM) Dhanbad '28**, passionate about crafting inn
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkodes&theme=github_light" alt="GitHub Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkodes&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" height="180"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=omkodes&theme=dark&hide_border=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
